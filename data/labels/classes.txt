@@ -1,0 +1,12 @@
+Dog
+Person
+Cat
+Tv
+Cell phone
+Car
+Chair
+Table
+Laptop
+Keyboard
+Awake
+Sleepy
