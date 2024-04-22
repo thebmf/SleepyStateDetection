@@ -8,7 +8,6 @@ This repository contains a set of scripts for training and running a real-time h
 - `take_pictures.py`: Script to collect images from a webcam.
 - `label_photos.py`: Tool for labeling collected images and converting them into YOLO format.
 - `custom_train.py`: Script for training the model based on labeled data.
-- `requirements.txt`: A file listing dependencies for installation.
 
 ## Setup and Installation
 
