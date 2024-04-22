@@ -2,7 +2,7 @@
 
 This repository contains a set of scripts for training and running a real-time human state detection system (awake or sleepy) using the YOLOv5 model. When the system detects the "sleepy" state, it triggers an alarm melody to alert the user.
 
-## Repository Structure
+## Key Files
 
 - `main.py`: The main script to run the real-time detection system.
 - `take_pictures.py`: Script to collect images from a webcam.
